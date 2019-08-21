@@ -1,0 +1,48 @@
+body
+{
+    margin: 0;
+    
+}
+
+ul
+{
+    list-style-type: none;
+    margin:0px;
+    padding: 0px;
+    width: 20%;
+    height: 100vh;
+    background-color:grey;
+
+
+}
+
+img
+{
+    width: 100px;
+    height: 100px;
+padding-left: 90px;
+padding-top: 50px;
+
+   
+}
+
+
+
+li a
+{
+    display: block;
+    color: rgb(10, 10, 10);
+   padding: 8px 16px;
+   text-decoration: none;   
+   padding-left: 50px;
+   padding-top: 50px;
+   border-left: none;
+   background-color: grey;
+}
+li a:hover
+{
+    color: palevioletred;
+    border-left: 5px solid palevioletred;
+}
+
+
